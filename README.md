@@ -1,3 +1,2 @@
 # sample-repo
-更新リモート
-変更
+Git練習用
